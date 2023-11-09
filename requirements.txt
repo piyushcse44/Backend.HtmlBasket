@@ -1,0 +1,12 @@
+django
+django-cors-headers 
+djangorestframework                 
+sqlparse            
+psycopg2
+dj-database-url
+gunicorn
+whitenoise
+poetry
+pycountry
+pillow
+
